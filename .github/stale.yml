@@ -7,7 +7,7 @@ daysUntilClose: 2
 exemptLabels:
   - pinned
   - security
-# Label to use when marking an issue as stale
+# Label to use when marking an issue as stale.
 staleLabel: stale
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
